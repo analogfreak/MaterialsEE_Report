@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction and Application}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Introduction to Schottky Diodes}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Application in power converters}{1}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Rectifiers}{1}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}DC-DC converters}{1}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Inverters}{1}{subsubsection.1.2.3}
+\contentsline {section}{\numberline {2}Principle of Working}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Equilibrium Conditions}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Under Forward Bias}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Under reverse bias}{2}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Schottky Barrier Height Reduction}{2}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Fermi Level Pinning}{2}{subsection.2.5}
+\contentsline {section}{\numberline {3}State of the Art Applications and Fabrication}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Power applications}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}High frequency applications}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Fabrication}{3}{subsection.3.3}
